@@ -24,17 +24,21 @@ Ayant suivi un cursus en informatique générale (BTS IRIS), suivi de 5 ans en g
 
 En janvier 2020, j'ai pu m'insérer, pour une durée de trois mois, dans l'équipe de développement de [VinoVibes](https://vinovibes.fr) & [VinoWays](https://vinoways.fr) avec laquelle j'ai pu effectuer diverses missions de front et de back.
 - **Front** : Développement et intégration de la refonte graphique des menus de back-office utilisateur lorsque celui-ci est connecté à son compte. (VinoVibes)
-- **Back** : Développement une solution de géolocalisation pour l'application mobile, via l'**API Google MAPS**, afin de permettre aux utilisateurs de pouvoir visiter un domaine viticole, étape par étape, selon les indications fournies par le domaine.
+- **Back** : Développement une solution de géolocalisation pour l'application mobile, via l'**API Google MAPS**, afin de permettre aux utilisateurs de pouvoir visiter un domaine viticole, étape par étape, selon les indications fournies par le domaine. (VinoWays)
     
 # 3. Projets
 
-![Timebomb](https://cdn.discordapp.com/attachments/177784067809476608/860196672558071819/Timebomb.png)
-![ProjectA](https://cdn.discordapp.com/attachments/177784067809476608/860196667054489620/ProjectA.png)
-![Ragnarok](https://cdn.discordapp.com/attachments/177784067809476608/860196670041358336/RGK.png)
-![LockQuizz](https://cdn.discordapp.com/attachments/177784067809476608/860196664430428170/LockQUIZZ.png)
-
-        
+[![Timebomb](https://cdn.discordapp.com/attachments/177784067809476608/860196672558071819/Timebomb.png)](https://github.com/Skorchy/timebomb)
+[![ProjectA](https://cdn.discordapp.com/attachments/177784067809476608/860196667054489620/ProjectA.png)](https://github.com/Skorchy/ProjectA)
+[![Ragnarok](https://cdn.discordapp.com/attachments/177784067809476608/860196670041358336/RGK.png)](https://github.com/Skorchy/Ragnarok-Esport)
+[![LockQuizz](https://cdn.discordapp.com/attachments/177784067809476608/860196664430428170/LockQUIZZ.png)](https://github.com/Skorchy/lockquizz)
+     
 # 4. Remerciements
+
+Je tenais à remercier spécialement:
+- [Pierre CAVALET](https://www.linkedin.com/in/pierre-cavalet-a862a3108/) : Expert Technique JS chez Kaliop Interactive Media, il m'a pris sous son aile et m'a enseigné les rudiments et bonnes pratiques du développement web afin que je puisse me lancer dans ce domaine.
+- [Lukka BLOIS](https://www.linkedin.com/in/lukka-blois-64a923107/) & [Baptiste LEULLIETTE](https://www.linkedin.com/in/baptiste-leulliette-55963012b/) : Tous deux excellents développeurs employés chez Kaliop Interactive Media, ils n'hésitent pas une seule seconde à m'aider lorsque j'ai des interrogations, des soucis de code, etc..
+- [Pascal BARBE](https://www.linkedin.com/in/pascal-barbe-63b93396/) : Fondateur de Vinovibes & Vinoways, amoureux du domaine viticole, il m'a laissé ma chance en m'intégrant à son équipe. Grâce à lui, j'ai pu mettre un premier pied à l'étrier et affirmer le choix de vouloir construire une carrière dans ce métier.
 
 # 5. Contact
 
