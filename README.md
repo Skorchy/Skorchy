@@ -22,7 +22,7 @@ Ici, vous trouverez les projets sur lesquels j'ai pu travailler, m'instruire, d�
     
 Ayant suivi un cursus en informatique générale (BTS IRIS), suivi de 5 ans en grande distribution, j'ai décidé de me spécialiser dans le développement web, en auto-didacte. De ce fait, j'ai eu la chance de travailler (en colaboration ou non) sur divers projets afin de me former et d'en apprendre toujours plus sur ce domaine.
 
-En janvier 2020, j'ai pu m'insérer, pour une durée de trois mois, dans l'équipe de développement de [VinoVibes](https://vinovibes.fr) & [VinoWays](https://vinoways.fr) avec laquelle j'ai pu effectuer diverses missions de front et de back.
+En janvier 2021, j'ai pu m'insérer, pour une durée de trois mois, dans l'équipe de développement de [VinoVibes](https://vinovibes.fr) & [VinoWays](https://vinoways.fr) avec laquelle j'ai pu effectuer diverses missions de front et de back.
 - **Front** : Développement et intégration de la refonte graphique des menus de back-office utilisateur lorsque celui-ci est connecté à son compte. (VinoVibes)
 - **Back** : Développement une solution de géolocalisation pour l'application mobile, via l'**API Google MAPS**, afin de permettre aux utilisateurs de pouvoir visiter un domaine viticole, étape par étape, selon les indications fournies par le domaine. (VinoWays)
     
